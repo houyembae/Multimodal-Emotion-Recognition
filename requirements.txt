@@ -1,0 +1,19 @@
+# core
+torch
+torchvision
+torchaudio
+transformers
+datasets
+opencv-python-headless
+librosa
+soundfile
+scikit-learn
+matplotlib
+seaborn
+wandb
+pillow
+tqdm
+timm
+einops
+pandas
+PyYAML
